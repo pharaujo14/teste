@@ -1,0 +1,265 @@
+classifier.Age
+classifier.Brazilian Bank Account Number
+classifier.Brazilian Bank Branch Code
+classifier.Brazilian Driver's License Number
+classifier.Brazilian Identity Card Number (Minas Gerais)
+classifier.Brazilian Identity Card Number (Sao Paulo)
+classifier.Brazilian Individual Taxpayer Registry Identification
+num_document
+classifier.Brazilian National Health Card Number
+classifier.Brazilian National Register of Legal Entities Number (CNPJ)
+classifier.Brazilian Social Identification Number
+classifier.Brazilian Voter ID Number
+classifier.Card verification value (CVV)
+classifier.Country
+classifier.Credit Card
+classifier.Credit Card (Narrow)
+classifier.Crime (English)
+classifier.Email
+classifier.Explicit Password
+classifier.Gender and Sex (English)
+classifier.Gender and Sex (English) (Narrow)
+classifier.GeographicData
+classifier.IMEI
+classifier.IPv4
+classifier.IPv6
+classifier.LineageGuid
+classifier.MAC Address
+classifier.Marital Status
+classifier.Public IPv4 Address
+classifier.Religion (English)
+classifier.Sexual Identity and Orientation (English)
+classifier.Sexual Identity and Orientation (English) (Narrow)
+CLIENT
+CNPJ_CPF
+CPF
+cupom_fiscal
+data_compra
+ds_email
+ds_name_full
+email
+E-mail
+enrich_field._id
+enrich_field.AARQUIVOS
+enrich_field.ACIDNRCAT
+enrich_field.AMTELPROP
+enrich_field.ANESCODIGO
+enrich_field.ATR_ID
+enrich_field.BAIRRO
+enrich_field.BENEFICIO
+enrich_field.C007_COD_PRODUTO
+enrich_field.C015_VLR_UNIT
+enrich_field.C02_COD_TERCEIRO
+enrich_field.C06_CPF_CGC
+enrich_field.C11_FANTASIA
+enrich_field.C12_ENDERECO
+enrich_field.C20_CEP
+enrich_field.C40_EMAIL
+enrich_field.CANDCELULAR
+enrich_field.CANDDTNASC
+enrich_field.CARTEIRINHA
+enrich_field.CBODESCRIC
+enrich_field.CCDESCRIC
+enrich_field.CD_DELIVERY
+enrich_field.CEL_TELEFONE
+enrich_field.CENTROID_X
+enrich_field.CEP
+enrich_field.CHAVE
+enrich_field.CHAVE_E3M6
+enrich_field.CIDADE
+enrich_field.CLIE_EMAIL
+enrich_field.CLIE_TEL2
+enrich_field.CLUSTERING_FACTOR
+enrich_field.CNPJ
+enrich_field.CNS
+enrich_field.cod_client
+enrich_field.cod_consumer
+enrich_field.cod_hybris_consumer
+enrich_field.COD_UNICO_FUNC
+enrich_field.CODIGO
+enrich_field.CODIGO USUARIO
+enrich_field.CODIGO_UNICO
+enrich_field.CODUNICO_FPW
+enrich_field.COLUMN_NAME
+enrich_field.COMPOUND_KEY
+enrich_field.CONH_ID_DESTINATARIO
+enrich_field.CPF
+enrich_field.CRDESCURSO
+enrich_field.CURSDESCUR
+enrich_field.CUSTOM_STRING19_26
+enrich_field.DATA_CONCLUSAO
+enrich_field.DATA_INICIO
+enrich_field.DECA_ID_PED
+enrich_field.DESCGRUPO
+enrich_field.DESCRICAO
+enrich_field.DESCRIPT
+enrich_field.DFFUNCRACHA
+enrich_field.DFUSASENHAEXT
+enrich_field.DOWM_PEDIDO
+enrich_field.DOWM_PEDIDO_INTERNO
+enrich_field.DP_CEP_DE
+enrich_field.DP_CEP_PARA
+enrich_field.DPBAIRRO
+enrich_field.DPCODDNV
+enrich_field.DPHISTBAIRRO
+enrich_field.DPMATCERTIDAO
+enrich_field.DT_NASCIME
+enrich_field.EC_COD_CC
+enrich_field.ecommerce_consignment_code
+enrich_field.EMAIL
+enrich_field.EMAIL_PESSOAL
+enrich_field.EMAILID
+enrich_field.EMP_MAT_ATUAL
+enrich_field.EMP_MATR_HIST
+enrich_field.EMPR_NOME
+enrich_field.ENDERECO
+enrich_field.EPIDESEPI
+enrich_field.ESCRTELEFONE1
+enrich_field.ESCRTELEFONE2
+enrich_field.ESPECIFICO2
+enrich_field.EVDESCOMPL
+enrich_field.EXCONTACORR
+enrich_field.EXTERNALCODE
+enrich_field.EXTERNALCODE_02
+enrich_field.FLA_ID
+enrich_field.FONE
+enrich_field.FPW CPF
+enrich_field.FPW_COD_FUNCIONAL
+enrich_field.FPW_COD_UNICO
+enrich_field.FPW_CODUNICO
+enrich_field.FPW_CODUNICO_TIT
+enrich_field.FPW_DESCR
+enrich_field.FPW_MATFUNC
+enrich_field.FPW_MATR
+enrich_field.FTCHAVE
+enrich_field.FUNCDTCASAMENTO
+enrich_field.FUNCIONARIO
+enrich_field.FUTELEFONE
+enrich_field.GRUPO_HIERARQUICO
+enrich_field.HASHESOCIAL
+enrich_field.HORAFIM
+enrich_field.HPEPA_ID_PEDIDO
+enrich_field.HSHOLD_1_M
+enrich_field.ID
+enrich_field.ID_EC
+enrich_field.ID_IDENT
+enrich_field.ID_PROCESSO
+enrich_field.ID_TERCEIRO
+enrich_field.ID2
+enrich_field.IDENTIDADE
+enrich_field.IDENTIFICADOR
+enrich_field.IDENTIFICADOR_ALVO
+enrich_field.IDEVENTO
+enrich_field.IDLOG
+enrich_field.IDLOGTMP
+enrich_field.IDLOTE
+enrich_field.IDPROCESSAMENTO
+enrich_field.INCIDENT_ID
+enrich_field.INSENLOGRADOURO
+enrich_field.INST_ID_PEDIDO_ORIG
+enrich_field.ISS_COD_UNICO
+enrich_field.ISS_FUNCIONAL
+enrich_field.KEY_CHAR
+enrich_field.LICC_ID_PEDIDO
+enrich_field.LICO_SENHA
+enrich_field.LOC_CEP
+enrich_field.LOGICAL_NAME
+enrich_field.LOGONID
+enrich_field.LOJA
+enrich_field.LOTA_SIGLA
+enrich_field.MAP_FILE_PATH
+enrich_field.MATFUNC_DE
+enrich_field.MATFUNC_PA
+enrich_field.MATRIC_CCI
+enrich_field.MATRIC_CCI_TIT
+enrich_field.MATRICULA
+enrich_field.MOBILEHOME
+enrich_field.MUSUGESCEP
+enrich_field.NAME
+enrich_field.NETID
+enrich_field.nf_chaveacesso
+enrich_field.NODE_VL_FRETE
+enrich_field.NODE_VL_ICMS_FRETE
+enrich_field.NOME
+enrich_field.NOME_DEP
+enrich_field.NOME_LOCALIDADE
+enrich_field.NOMEARQUIVO
+enrich_field.NR_CONTA_C
+enrich_field.NR_CRESERV
+enrich_field.NR_PIS
+enrich_field.NR_TIT
+enrich_field.NUM_CNS
+enrich_field.NUMBER
+enrich_field.NUMERORECIBO
+enrich_field.OBJECT_NAME
+enrich_field.OFIDENT
+enrich_field.P_CPF
+enrich_field.P_CUSTOMERID
+enrich_field.P_DEFAULTPAYMENTADDRESS
+enrich_field.P_DEFAULTSHIPMENTADDRESS
+enrich_field.PAIDESCRICAO
+enrich_field.PEAF_ID_PEDIDO
+enrich_field.PECOMPLEMENTO
+enrich_field.PERP_VL_PEI
+enrich_field.PERSON_ID_EXTERNAL_46
+enrich_field.PFESTOPREV
+enrich_field.PFQUEBPREV
+enrich_field.PFQUEBREAL
+enrich_field.PHONE
+enrich_field.PIS
+enrich_field.PK
+enrich_field.PMESTOPREV
+enrich_field.POP1990
+enrich_field.PPRADESPPRA
+enrich_field.PROCAUTOS
+enrich_field.QUALIFIED_COL_NAME
+enrich_field.RECEIVING_VL_FREIGHT
+enrich_field.REGION_ID
+enrich_field.RELATED_CIS
+enrich_field.REQUEST
+enrich_field.REQWORKFLOW
+enrich_field.RESULTADO
+enrich_field.RG
+enrich_field.RNRC_VL_FRETE
+enrich_field.RNRD_VL_FRETE
+enrich_field.RVCCPREMIO
+enrich_field.SCNADESSUBCLASSE
+enrich_field.SCODESCRICAO
+enrich_field.SEVENT
+enrich_field.SIDESCRIC
+enrich_field.SIENDERECO
+enrich_field.TCT_Token
+enrich_field.TEMP_MATRICULA
+enrich_field.TEMPO_PEDSIGE_NOTA
+enrich_field.TEMPO_VOLUME_NOTA
+enrich_field.TGR_DsGroup
+enrich_field.TOP_Login
+enrich_field.TRANSLATION_COMMENTS
+enrich_field.TRCE_STR_LABEL_CONTRATO
+enrich_field.TRRO_CEP_FIM
+enrich_field.TRRO_CEP_INI
+enrich_field.TSI_DsSite
+enrich_field.TSI_SiteCode
+enrich_field.TUS_CustomerCode
+enrich_field.UNIMED: CNS
+enrich_field.UNM_BH_MATR
+enrich_field.USER_ID_08
+enrich_field.UUID
+enrich_field.uuid_row_hash
+enrich_field.VACTPS
+enrich_field.VAIN_ID_PEDIDO
+enrich_field.VALUE
+enrich_field.VARADESCVARA
+enrich_field.VL_TOTAL_FAT
+enrich_field.WHITE
+FUCPF
+FUEMAIL
+FUIDENTFUN
+FULLNAME
+FUNOMFUNC
+Name
+nome
+nome_loja
+origem_compra
+produto
+REGION
